@@ -1,2 +1,2 @@
 AUTOMAKE_OPTIONS = foreign
-SUBDIRS = expr_*
+SUBDIRS = expr_inherit_reference
